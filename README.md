@@ -1,26 +1,3 @@
 # vue-compoent-extends-experiment
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+we will discuss inheritance of vue here, it include template-level and script-level.
